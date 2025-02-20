@@ -2,4 +2,5 @@
 n1 = int(input("Digite um numero que deseja saber a tabuada : "))
 for i in range(1,11):
     print (n1,"*",i,"=",n1*i)
+#acabei
     

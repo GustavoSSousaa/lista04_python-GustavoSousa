@@ -4,3 +4,4 @@ nome = str(input("Digite seu nome : "))
 n1 = int(input("Digite um numero : "))
 for i in range(n1):
     print (nome)
+#acabei

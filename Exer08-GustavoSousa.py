@@ -8,4 +8,4 @@ for i in range(5):
    if aa == "s" or aa == "S":
       soma += num
 print (soma)
-#da erro na soma
+#acabei

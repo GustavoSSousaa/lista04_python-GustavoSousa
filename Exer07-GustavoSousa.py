@@ -9,3 +9,4 @@ if n1<10:
 else :
     for i in range(3):
         print ("NUMERO MUITO ALTO")
+#acabei

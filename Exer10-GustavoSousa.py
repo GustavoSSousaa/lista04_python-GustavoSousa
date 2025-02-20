@@ -13,5 +13,4 @@ for nome in nomes:
     print (nome)
 if n1 >= 10:
     print ("Numero de pessoas muito alto")
-else:
-    print ("Valor invalido")
+#acabei

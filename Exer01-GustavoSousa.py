@@ -2,3 +2,4 @@
 nome = str(input("Digite seu nome : "))
 for i in range(3):
     print (nome)
+#acabei

@@ -5,3 +5,4 @@ n1 = int(input("Digite um numero : "))
 for ii in range(n1):
     for i in nome:
         print (i)
+#acabei

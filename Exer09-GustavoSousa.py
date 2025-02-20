@@ -16,3 +16,4 @@ elif di == "A" or "a":
             break
 else:
     print ("Direção invalida")
+#acabei

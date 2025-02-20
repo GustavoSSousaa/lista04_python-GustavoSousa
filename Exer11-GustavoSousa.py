@@ -18,6 +18,7 @@ for i in range(n1):
         nao_con += 1
     else:
         sim_con += 1
+print ("")
 print ("Tarefas concluidas",sim_con)
 print ("Tarefas não concluidas",nao_con)
-#Erro na digitaçao
+#acabei
